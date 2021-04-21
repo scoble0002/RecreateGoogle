@@ -33,6 +33,12 @@
     align-items: center;
   }
 
+   
+  .bar-middle {
+    margin-left: auto;
+    display: flex;
+    align-items: center;
+  }
   
   .bar-right {
     margin-left: auto;
